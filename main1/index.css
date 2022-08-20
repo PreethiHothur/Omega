@@ -1,0 +1,21 @@
+.offer-button {
+  background-color: rgb(62, 118, 173);
+  width: 18.125rem;
+  height: 7.375rem;
+  margin: 1.875rem 15.188rem 1.188rem 0.188rem;
+  border-radius: 9px;
+  background-color: rgb(99, 159, 219);
+}
+.headphoneimg {
+  height: 600px;
+  width: 400px;
+}
+.headphones {
+  height: 800px;
+}
+.addtocart {
+  background-color: #f0c931;
+}
+.h1main {
+  font-size: 50px;
+}
